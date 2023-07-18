@@ -1,0 +1,10 @@
+{
+  "name": "Histopia-ZKGate-circuits",
+  "license": "MIT",
+  "scripts": {
+    "build:circuits": "bash ./scripts/build_circuits.sh"
+  },
+  "devDependencies": {
+    "circomlib": "^0.5.2"
+  }
+}
